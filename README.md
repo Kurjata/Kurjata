@@ -6,8 +6,8 @@
 
 
 
-## Resume <br> ![Kurjata's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurjata&show_icons=true&theme=dracula) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurjata&layout=compact)
 
+## Resume <br> ![Kurjata's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurjata&show_icons=true&theme=dracula) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurjata&layout=compact)
 
 
 
