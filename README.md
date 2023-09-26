@@ -1,6 +1,7 @@
 <div align="center">
 
 # Eai, aqui é o Felipe!
+![code](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 O advogado que virou desenvolvedor, troquei os códigos da lei pelos códigos digitais.
 
@@ -10,7 +11,7 @@ A mágica de transformar linhas de código em interfaces incríveis e servidores
 
 Estou aqui para aprender, crescer e fazer a diferença nesse universo fascinante que é a programação.
 
-![code](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+![code](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
 ## Hard Skills
 
