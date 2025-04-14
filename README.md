@@ -3,13 +3,11 @@
 # Hello World!
 ![code](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-O advogado que virou desenvolvedor, troquei os códigos da lei pelos códigos digitais.
+Sou um advogado que trocou os códigos da lei pelos digitais. Encantado tanto pelo front-end quanto pelo back-end, encontro na programação a mágica de transformar linhas de código em soluções e interfaces incríveis. Estou em constante aprendizado e evolução, determinado a fazer a diferença no universo da tecnologia.
 
-Sinceramente não consigo escolher entre Front-end ou back-end, o que vale é a paixão por criar e inovar!
+Hoje, curso Arquitetura de Software e cultivo a paixão por criar facilidades com qualidade para o cliente. Minha transição do Direito para a TI proporcionou uma bagagem de soft skills desenvolvidas ao longo de anos de experiência no setor jurídico, que agora aplico diariamente no desenvolvimento de software.
 
-A mágica de transformar linhas de código em interfaces incríveis e servidores poderosos me fascina todos os dias.
-
-Estou aqui para aprender, crescer e fazer a diferença nesse universo fascinante que é a programação.
+Focado em construir aplicações robustas, escaláveis e eficientes, busco transformar desafios complexos em soluções práticas, sempre prezando pela excelência. Trabalho de forma colaborativa, compartilho conhecimento e contribuo para o crescimento contínuo dos projetos e das equipes em que atuo.
 
 ![code](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
